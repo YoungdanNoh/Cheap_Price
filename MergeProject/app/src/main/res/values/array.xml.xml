@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="question">
+        <item>한식 일반</item>
+        <item>한식 육류</item>
+        <item>한식 찌개류</item>
+        <item>중식</item>
+        <item>양식</item>
+        <item>한식 면류</item>
+        <item>기타양식</item>
+        <item>한식 분식</item>
+        <item>한식 한정식</item>
+        <item>일식</item>
+        <item>한식 해산물</item>
+        <item>한식 기타</item>
+    </string-array>
+</resources>
