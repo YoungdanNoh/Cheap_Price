@@ -15,7 +15,7 @@
 # 데모 영상 
 <img src="https://user-images.githubusercontent.com/38938145/132532573-0d1e6686-c251-4eec-8974-8d087dd042df.mp4">
 
-# 학술 대회 논문 게재
+# 학술 발표 논문 게재
 한국컴퓨터정보학회 학술발표논문집  29(2), 2021.07, 205-206
 
 [GPS 센서 기반의 최저가 업소 검색 애플리케이션 구현](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10593179)
