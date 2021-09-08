@@ -18,7 +18,7 @@
 
 
 #개발자
-Jung Sang Won ( 프로젝트 로직 구현)
-Yu Kwang Sik  ( 로그인기능 구현 ) 
-Noh Young Dan ( 프로젝트 기획 및 구현, 화면 디자인)
+*Jung Sang Won ( 프로젝트 로직 구현)
+*Yu Kwang Sik  ( 로그인기능 구현 ) 
+*Noh Young Dan ( 프로젝트 기획 및 구현, 화면 디자인)
 
